@@ -19,5 +19,5 @@ A **starter ZIP file** is included so others can easily recreate, customize, or 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Mini-Project-4.git
+   git clone https://github.com/mohammadzali2005/Mini-Project-4
 
